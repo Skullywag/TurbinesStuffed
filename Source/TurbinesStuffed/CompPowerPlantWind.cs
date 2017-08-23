@@ -60,9 +60,9 @@ namespace TurbinesStuffed
             }
         }
 
-        public override void PostSpawnSetup()
+        public override void PostSpawnSetup(bool respawningAfterLoad)
         {
-            base.PostSpawnSetup();
+            base.PostSpawnSetup(respawningAfterLoad);
             CompPowerPlantWind.BarSize = new Vector2((float)this.parent.def.size.z - 0.95f, 0.14f);
             this.RecalculateBlockages();
             this.spinPosition = Rand.Range(0f, 15f);
@@ -95,8 +95,8 @@ namespace TurbinesStuffed
         public override void PostExposeData()
         {
             base.PostExposeData();
-            Scribe_Values.LookValue<int>(ref this.ticksSinceWeatherUpdate, "updateCounter", 0, false);
-            Scribe_Values.LookValue<float>(ref this.cachedPowerOutput, "cachedPowerOutput", 0f, false);
+            Scribe_Values.Look<int>(ref this.ticksSinceWeatherUpdate, "updateCounter", 0, false);
+            Scribe_Values.Look<float>(ref this.cachedPowerOutput, "cachedPowerOutput", 0f, false);
         }
 
         public override void CompTick()

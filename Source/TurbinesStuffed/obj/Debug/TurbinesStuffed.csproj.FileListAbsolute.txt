@@ -44,3 +44,14 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TurbinesStuffed-A16\
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TurbinesStuffed-A16\Source\TurbinesStuffed\obj\Debug\TurbinesStuffed.csprojResolveAssemblyReference.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TurbinesStuffed-A16\Source\TurbinesStuffed\obj\Debug\TurbinesStuffed.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TurbinesStuffed-A16\Source\TurbinesStuffed\obj\Debug\TurbinesStuffed.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\bin\Debug\TurbinesStuffed.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\bin\Debug\TurbinesStuffed.pdb
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\bin\Debug\Assembly-CSharp.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\bin\Debug\UnityEngine.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\bin\Debug\NAudio.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\bin\Debug\NVorbis.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\bin\Debug\UnityEngine.xml
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\obj\Debug\TurbinesStuffed.csprojResolveAssemblyReference.cache
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\obj\Debug\TurbinesStuffed.dll
+C:\Users\mjsku\Desktop\RimWorldAlpha17bWin\RimWorld1557Win\Mods\TurbinesStuffed\Source\TurbinesStuffed\obj\Debug\TurbinesStuffed.pdb
